@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj": {}
+    "D:\\Programming2024\\SOLID\\SOLID-.NET\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj": {
+    "D:\\Programming2024\\SOLID\\SOLID-.NET\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+        "projectUniqueName": "D:\\Programming2024\\SOLID\\SOLID-.NET\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
         "projectName": "OpenClosedPrinciple",
-        "projectPath": "C:\\Programming\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+        "projectPath": "D:\\Programming2024\\SOLID\\SOLID-.NET\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
         "packagesPath": "C:\\Users\\vig\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\SOLID\\OpenClosedPrinciple\\obj\\",
+        "outputPath": "D:\\Programming2024\\SOLID\\SOLID-.NET\\OpenClosedPrinciple\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\vig\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vig\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

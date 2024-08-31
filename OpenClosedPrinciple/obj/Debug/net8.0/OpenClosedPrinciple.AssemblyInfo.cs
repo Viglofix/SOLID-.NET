@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenClosedPrinciple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a859af48901a57c183e16ce77212a54c0f1ec9c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d71e00b0a2ab8f4424e9133e4db6723786b8bd42")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenClosedPrinciple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenClosedPrinciple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

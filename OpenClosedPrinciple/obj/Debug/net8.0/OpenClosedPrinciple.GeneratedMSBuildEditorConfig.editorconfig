@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OpenClosedPrinciple
-build_property.ProjectDir = C:\Programming\SOLID\OpenClosedPrinciple\
+build_property.ProjectDir = D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
