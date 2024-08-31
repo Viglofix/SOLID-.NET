@@ -1,0 +1,15 @@
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\bin\Debug\net8.0\OpenClosedPrinciple2.exe
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\bin\Debug\net8.0\OpenClosedPrinciple2.deps.json
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\bin\Debug\net8.0\OpenClosedPrinciple2.runtimeconfig.json
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\bin\Debug\net8.0\OpenClosedPrinciple2.dll
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\bin\Debug\net8.0\OpenClosedPrinciple2.pdb
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\obj\Debug\net8.0\OpenClosedPrinciple2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\obj\Debug\net8.0\OpenClosedPrinciple2.AssemblyInfoInputs.cache
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\obj\Debug\net8.0\OpenClosedPrinciple2.AssemblyInfo.cs
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\obj\Debug\net8.0\OpenClosedPrinciple2.csproj.CoreCompileInputs.cache
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\obj\Debug\net8.0\OpenClosedPrinciple2.sourcelink.json
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\obj\Debug\net8.0\OpenClosedPrinciple2.dll
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\obj\Debug\net8.0\refint\OpenClosedPrinciple2.dll
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\obj\Debug\net8.0\OpenClosedPrinciple2.pdb
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\obj\Debug\net8.0\OpenClosedPrinciple2.genruntimeconfig.cache
+D:\Programming2024\SOLID\SOLID-.NET\OpenClosedPrinciple2\obj\Debug\net8.0\ref\OpenClosedPrinciple2.dll
