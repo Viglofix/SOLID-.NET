@@ -1,0 +1,15 @@
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\bin\Debug\net8.0\OpenClosedPrinciple3.exe
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\bin\Debug\net8.0\OpenClosedPrinciple3.deps.json
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\bin\Debug\net8.0\OpenClosedPrinciple3.runtimeconfig.json
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\bin\Debug\net8.0\OpenClosedPrinciple3.dll
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\bin\Debug\net8.0\OpenClosedPrinciple3.pdb
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\obj\Debug\net8.0\OpenClosedPrinciple3.GeneratedMSBuildEditorConfig.editorconfig
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\obj\Debug\net8.0\OpenClosedPrinciple3.AssemblyInfoInputs.cache
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\obj\Debug\net8.0\OpenClosedPrinciple3.AssemblyInfo.cs
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\obj\Debug\net8.0\OpenClosedPrinciple3.csproj.CoreCompileInputs.cache
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\obj\Debug\net8.0\OpenClosedPrinciple3.sourcelink.json
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\obj\Debug\net8.0\OpenClosedPrinciple3.dll
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\obj\Debug\net8.0\refint\OpenClosedPrinciple3.dll
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\obj\Debug\net8.0\OpenClosedPrinciple3.pdb
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\obj\Debug\net8.0\OpenClosedPrinciple3.genruntimeconfig.cache
+d:\Programming2024\SOLID\SOLID-.NET\LiskovSubstitutionPrinciple\obj\Debug\net8.0\ref\OpenClosedPrinciple3.dll
