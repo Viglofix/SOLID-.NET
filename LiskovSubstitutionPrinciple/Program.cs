@@ -1,6 +1,6 @@
 ﻿﻿//Calling class not following Liskov Substitution Principle
 
-IFileReader accessDataFile = new AdminDataFileUser();
+IMultiFunctionalDevice accessDataFile = new AdminDataFileUser();
 accessDataFile.ReadFile(@"c:\temp\a.txt");
 accessDataFile.WriteFile(@"c:\temp\a.txt");
 
@@ -16,7 +16,8 @@ public interface IFileReader {
 public interface IFileWriter{
   public void WriteFile(string filePath);
 }
-public class AdminDataFileUser : IFileReader,IFileWriter 
+public interface IMultiFunctionalDevice : IFileReader,IFileWriter;
+public class AdminDataFileUser : IMultiFunctionalDevice
 {
     public void ReadFile(string filePath)
     {
