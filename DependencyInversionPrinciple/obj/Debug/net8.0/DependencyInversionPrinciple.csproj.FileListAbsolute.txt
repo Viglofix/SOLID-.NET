@@ -1,0 +1,15 @@
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.exe
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.deps.json
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.runtimeconfig.json
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.dll
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.pdb
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.sourcelink.json
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.dll
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\obj\Debug\net8.0\refint\DependencyInversionPrinciple.dll
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.pdb
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Programming\SOLID-.NET\DependencyInversionPrinciple\obj\Debug\net8.0\ref\DependencyInversionPrinciple.dll
